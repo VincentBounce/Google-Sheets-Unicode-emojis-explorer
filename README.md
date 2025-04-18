@@ -10,7 +10,7 @@ Then click **File > Make a copy**
 ---
 ---
 
-# Features
+# 🎛️Features
 
 ## Standard emojis & glyphs
 
