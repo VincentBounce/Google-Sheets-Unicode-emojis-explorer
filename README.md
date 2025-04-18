@@ -30,10 +30,10 @@ Then click **File > Make a copy**
 
 # Rendering depends of your OS
 
-## macOS
-
-![image](https://github.com/user-attachments/assets/3bd13485-9f5b-419c-b39e-eb5cfa257c56)
-
 ## Windows
 
 ![image](https://github.com/user-attachments/assets/c4cd6698-1903-4d7a-b029-a2e5923c1c0f)
+
+## macOS
+
+![image](https://github.com/user-attachments/assets/3bd13485-9f5b-419c-b39e-eb5cfa257c56)
