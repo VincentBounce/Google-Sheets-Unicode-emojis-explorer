@@ -2,7 +2,7 @@
 
 ## 👌To fork & use this spreadsheet
 
-Open **https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg**
+Open **https://docs.google.com/spreadsheets/d/1pNrlIPlBmzC7sJ5VfSQkYH8awXrqfJ2vn0yXPfBMByw**
 
 Then click **File > Make a copy**
 
